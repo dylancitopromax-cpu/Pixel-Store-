@@ -26,7 +26,7 @@ html {
 body {
   min-width: 320px;
   margin: 0;
-  background: var(--fondo) url("imagenes/atardecer.jpg") center / cover fixed no-repeat;
+  background: var(--fondo) url("atardecer.jpg") center / cover fixed no-repeat;
   color: var(--texto);
   font-family: "Segoe UI", Arial, sans-serif;
   font-size: 17px;

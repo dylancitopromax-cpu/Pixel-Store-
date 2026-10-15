@@ -159,7 +159,7 @@ button, input, select { font: inherit; }
 .panel-informativo { display: flex; flex-direction: column; }
 .imagen-panel {
   min-height: 235px;
-  background: linear-gradient(0deg, #11182033, transparent), url("imagenes/Cyberpunk%202077.jpg") center 35% / cover;
+  background: linear-gradient(0deg, #11182033, transparent), url("Cyberpunk%202077.jpg") center 35% / cover;
 }
 .texto-panel { flex: 1; padding: 26px 28px 30px; }
 .etiqueta-panel { margin: 0 0 8px; color: #a35b0b; font-size: .72rem; font-weight: 800; letter-spacing: .1em; }
